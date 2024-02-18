@@ -255,7 +255,7 @@ header .arrow {
   align-items: center;
 }
 .description {
-  font-size: 0.875em;
+  font-size: 0.75em;
   color: hsl(167, 40%, 24%);
   font-family: "Fraunces", serif;
   line-height: 24px;
